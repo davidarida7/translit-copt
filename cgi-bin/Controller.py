@@ -115,8 +115,6 @@ def hasRules(c):
         return 1
     elif (c == "Ϫ"):
         return 1
-    elif (c == "Ϫ"):
-        return 1
     elif (c == "̀"):
         return 1
     return 0
