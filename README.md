@@ -6,7 +6,7 @@ When you launch the application, you simply have to allow camera access, and sca
 
 ## Tech
 
-This application was developed using a Bootstrap template frontend, Tesseract 4.0.0 for OCR of the Coptic language using Coptic trained data files (available on [Shreeshrii's Github](https://github.com/Shreeshrii/tessdata_coptic)), and a custom implemented Coptic unicode text to transliterated English characters library developed in Python at the 2022 Coptic Hackathon at Queen St. Mary & Prince Tadros Coptic Orthodox Church by Bishoy Kamel, Mark Bassily, Mark Shenouda, Ramz Azmy, and David Arida.
+This application was developed using a [Bootstrap template frontend](https://startbootstrap.com/theme/freelancer/), Tesseract 4.0.0 for OCR of the Coptic language using Coptic trained data files (available on [Shreeshrii's Github](https://github.com/Shreeshrii/tessdata_coptic)), and a custom implemented Coptic unicode text to transliterated English characters library developed in Python at the 2022 Coptic Hackathon at Queen St. Mary & Prince Tadros Coptic Orthodox Church by Bishoy Kamel, Mark Bassily, Mark Shenouda, Ramz Azmy, and David Arida.
 
 ## Installation and Setup
 To get the application up and running locally,
@@ -28,8 +28,8 @@ Now the application should be up and running! All you have to do is navigate to 
 
 A live version of the application is running at [this URL](http://20.83.188.26:8000/index.html).
 
-Please see this zipped file with all the changes that needed to be made to the code for it to run on the server: [translit-copt-main.zip](https://github.com/davidarida7/translit-copt/files/9146200/translit-copt-main.zip)
+Please see this zipped file with all the changes that needed to be made to the code for it to run on the server: [translit-copt-main.zip](https://github.com/davidarida7/translit-copt/files/9146254/translit-copt-main.zip).
 
 Here is a screenshot of the application up and running on mobile for a large block of text from the Coptic Bible:
 
-![image](https://user-images.githubusercontent.com/21349126/179889199-793cdc0b-540a-4b70-9212-570a90ec1440.png)
+![image](https://user-images.githubusercontent.com/21349126/179889199-793cdc0b-540a-4b70-9212-570a90ec1440.png =585x1266)
