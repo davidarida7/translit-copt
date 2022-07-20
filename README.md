@@ -23,3 +23,13 @@ To get the application up and running locally,
     python3 -m http.server --cgi 8000
     ```
 Now the application should be up and running! All you have to do is navigate to http://localhost:8000/index.html, and you will be on the landing page of the UI and can use the application as described above!
+
+## Live Application
+
+A live version of the application is running at [this URL](http://20.83.188.26:8000/index.html).
+
+Please see this zipped file with all the changes that needed to be made to the code for it to run on the server: [translit-copt-main.zip](https://github.com/davidarida7/translit-copt/files/9146200/translit-copt-main.zip)
+
+Here is a screenshot of the application up and running on mobile for a large block of text from the Coptic Bible:
+
+![image](https://user-images.githubusercontent.com/21349126/179889199-793cdc0b-540a-4b70-9212-570a90ec1440.png)
