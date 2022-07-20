@@ -32,4 +32,4 @@ Please see this zipped file with all the changes that needed to be made to the c
 
 Here is a screenshot of the application up and running on mobile for a large block of text from the Coptic Bible:
 
-![image](https://user-images.githubusercontent.com/21349126/179889199-793cdc0b-540a-4b70-9212-570a90ec1440.png =585x1266)
+![image](https://user-images.githubusercontent.com/21349126/179889199-793cdc0b-540a-4b70-9212-570a90ec1440.png)
